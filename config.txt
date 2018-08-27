@@ -1,0 +1,3 @@
+[hostname]
+host:imap.gmail.com
+port:443
